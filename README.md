@@ -1,7 +1,5 @@
-# tsen-magenta-yellow
-A color scheme for Terminal.app and vim
-
-Based on the super nice [duo-tone](https://github.com/simurai/duotone-dark-syntax) theme for atom.
+#![tsen-magenta-yellow](http://i.imgur.com/pm6u1CH.png)
+A color scheme for Terminal.app and vim based on [duo-tone](https://github.com/simurai/duotone-dark-syntax) theme for Atom.
 
 ## Install
 
