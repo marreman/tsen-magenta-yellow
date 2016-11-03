@@ -3,7 +3,7 @@ syntax reset
 
 set background=dark
 
-let g:colors_name = "purple-haze"
+let g:colors_name = "tsen-magenta-yellow"
 let n = "none"
 
 function! C(group, fg, bg)
