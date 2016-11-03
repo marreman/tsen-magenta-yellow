@@ -1,5 +1,10 @@
-#![tsen-magenta-yellow](http://i.imgur.com/pm6u1CH.png)
+#tsen-magenta-yellow
+
+![tsen-magenta-yellow](http://i.imgur.com/pm6u1CH.png)
 A color scheme for Terminal.app and vim based on [duo-tone](https://github.com/simurai/duotone-dark-syntax) theme for Atom.
+
+![javascript](http://i.imgur.com/Ws1zmtL.png)
+![css](http://i.imgur.com/sdB8Tpz.png)
 
 ## Install
 
